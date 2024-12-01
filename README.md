@@ -1,5 +1,5 @@
 # native-deflate
-Deflate and inflate typed arrays using the Compression Streams API, provided as a Promises based API.
+Deflate and inflate typed arrays without external dependencies, provided as a promises based API.
 
 ```
 npm install native-deflate
