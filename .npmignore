@@ -1,0 +1,4 @@
+# Ignore Git files and directories
+.git/
+.github/
+.gitignore
