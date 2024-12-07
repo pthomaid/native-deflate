@@ -1,6 +1,6 @@
 {
   "name": "native-deflate",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Deflate and inflate on typed arrays using the Compression Streams API, provided as a Promises based API.",
   "main": "build/index.js",
   "scripts": {
